@@ -93,7 +93,7 @@ function aiChoose() {
 
 
 function displayResults(results) {
-  const basePath = window.location.href.replace("index1.html", "");
+  const basePath = window.location.href.replace("index.html", "");
   resultDivs.forEach((resultDiv, ex) => {
     setTimeout(() => {
       resultDiv.innerHTML = `
