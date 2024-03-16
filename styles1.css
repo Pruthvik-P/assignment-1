@@ -102,7 +102,7 @@ body {
   height: 75%;
   left: 28%;
   top: 30%;
-  background: url("./images/lines.png") no-repeat;
+  background: url("images/lines.png") no-repeat;
   background-position: -5% 40%;
   background-size: 48%;
   z-index: -1;
