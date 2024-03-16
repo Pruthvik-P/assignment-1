@@ -98,7 +98,7 @@ function displayResults(results) {
     setTimeout(() => {
       resultDiv.innerHTML = `
         <div class="choice ${results[ex].name}">
-          <img src="${basePath}Images/${results[ex].name}.png" alt="${results[ex].name}" />
+          <img src="${basePath}images/${results[ex].name}.png" alt="${results[ex].name}" />
         </div>
       `;
     }, ex * 100);
