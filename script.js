@@ -163,7 +163,7 @@ playAgainBtn.addEventListener("click", () => {
 
 
 function homepage() {
-  window.location.href = 'index1.html';
+  window.location.href = 'index.html';
   }
 
 function nextButton() {
